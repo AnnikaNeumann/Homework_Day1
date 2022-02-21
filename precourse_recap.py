@@ -6,3 +6,5 @@ def greet(name):
 greet(my_name)
 
 greet("Anthony")
+
+greet("Joe")
